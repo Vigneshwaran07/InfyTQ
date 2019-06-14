@@ -1,0 +1,2 @@
+# InfyTQ
+Certification Course - Python
