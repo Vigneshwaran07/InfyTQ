@@ -13,4 +13,6 @@ for ind,i in enumerate(a):
         f2 = 0
     elif(f1==0 and f2==0):
         t += int(i)
+if(f1==1 and f2==1):
+    t += sum(map(int,list(a[s:])))
 print(t)
